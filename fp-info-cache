@@ -1,4 +1,4 @@
-27244729166199947
+27231433696575494
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2813,6 +2813,13 @@ speaker CUI
 0
 2
 2
+CH340K
+SOP100P600X160-11N
+
+
+0
+11
+11
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -63489,6 +63496,13 @@ heatsink
 0
 0
 0
+ICM20608
+IAM20680HP
+16 Lead LGA (3x3x0.75)-1-1
+Integrated Circuit
+0
+16
+16
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -98657,13 +98671,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SKRPACE010 2
+S7136
+DIP575W60P254L560H210Q4N
+S7136
+Integrated Circuit
+0
+4
+4
+SKRPACE010
 SW_SKRPACE010
 
 
 0
 4
 4
+SSSS213202
+SSSS213202
+<b>SSSS213202</b><br>
+
+0
+6
+6
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -100771,6 +100799,13 @@ Logo WEEE
 0
 0
 0
+TB67H450
+SOIC127P599X175-9N
+
+
+0
+9
+9
 TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
@@ -107911,3 +107946,10 @@ Varistor VF
 0
 2
 2
+reRo
+reRorogo
+
+
+0
+0
+0
